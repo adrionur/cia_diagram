@@ -1,4 +1,5 @@
 import matplotlib.pyplot as plt
+import numpy as np
 import matplotlib.cm as cm # Renk paleti için
 
 # --- 1. VERİ GİRİŞİ ---
